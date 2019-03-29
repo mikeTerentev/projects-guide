@@ -8,14 +8,14 @@ Computer Technology Department, ITMO University,Saint-Petersburg, 2017-present
 * [Find util](??) soon
 3. [Java Advanced](https://github.com/mikeTerentev/Java-projects/tree/master/advanced-2019)
 
+
 ## Term 3
-1. 
 1. C++ Programming Language
 * [Mega-Finder](https://github.com/mikeTerentev/megaFinder)  
 Qt-application  for finding substrings in files inside choosen folders using using idea of Google Tri-grams. 
 * [MegaCleaner](https://github.com/mikeTerentev/megaCleaner)  
 Qt-application for searching, viewing and  deleting duplicate files in chosen folders
-* [std::tuple implementation](https://github.com/mikeTerentev/tuple)
+* [std::tuple](https://github.com/mikeTerentev/tuple) implementation.
 2. [Web programming course](https://github.com/mikeTerentev/Java-projects/tree/master/Web%20programming)
 
 
@@ -29,6 +29,9 @@ Qt-application for searching, viewing and  deleting duplicate files in chosen fo
 * [Big Integer implementation](https://github.com/hazzus/cpp-bigint) with copy-on-write optimisation
 * [Huffman Encodeing library and console utility](https://github.com/mikeTerentev/huffman-archiver-cpp)
 * [Exam task. exception safety std::list implementation](https://github.com/mikeTerentev/list)
+
 ## Term 1
 1. [Programming intro](https://github.com/mikeTerentev/Java-projects/tree/master/Programing-introduction)
+2. [Web crawler]()
+3.[Markdown to html convertor]()
 
