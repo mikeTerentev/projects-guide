@@ -26,7 +26,7 @@ Qt-application for searching, viewing and  deleting duplicate files in chosen fo
 * [SHA-256 convertor](https://github.com/mikeTerentev/Java-projects/blob/master/Java-2018/java/md5)
 * [Binary search](https://github.com/mikeTerentev/Java-projects/tree/master/Java-2018/java/search) with contracts
 2. C++ Programming Language
-* [Big Integer implementation](https://github.com/hazzus/cpp-bigint) with copy-on-write optimisation
+* [Big Integer implementation](https://github.com/mikeTerentev/bigint) with copy-on-write optimisation
 * [Huffman Encodeing library and console utility](https://github.com/mikeTerentev/huffman-archiver-cpp)
 * [Exam task. exception safety std::list implementation](https://github.com/mikeTerentev/list)
 
