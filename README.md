@@ -4,8 +4,8 @@ Computer Technology Department, ITMO University,Saint-Petersburg, 2017-present
 ## Term 4
 1. [Mathematical Logic](??) soon
 2. Operating Systems
-* [Kid-shell](??) soon
-* [Find util](??) soon
+* [Kid-shell](https://github.com/mikeTerentev/os-kidshell/master/)
+* [Find util](https://github.com/mikeTerentev/os-find/master/) 
 3. [Java Advanced](https://github.com/mikeTerentev/Java-projects/tree/master/advanced-2019)
 
 
