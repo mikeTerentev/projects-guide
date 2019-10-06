@@ -1,12 +1,17 @@
 # University projects
 Computer Technology Department, ITMO University,Saint-Petersburg, 2017-present
-
+### Cryptography
+ *[Kasiski examination](https://github.com/mikeTerentev/cryptography)
+ *[DES](https://github.com/mikeTerentev/cryptography)
+ 
 ### Operating Systems
  * [Kid-shell](https://github.com/mikeTerentev/os-kidshell/)
  * [Find util](https://github.com/mikeTerentev/os-find/) 
  * [Multiplexing](https://github.com/mikeTerentev/os-net-multiplexing)
  * [Signal](https://github.com/mikeTerentev/os-signal)
+ 
 ### [Java Advanced](https://github.com/mikeTerentev/Java-projects/tree/master/advanced-2019)
+
 ### [Mathematical Logic](https://github.com/mikeTerentev/mathlogic/)
 
 ### C++ Programming Language
