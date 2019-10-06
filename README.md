@@ -1,8 +1,8 @@
 # University projects
 Computer Technology Department, ITMO University,Saint-Petersburg, 2017-present
 ### Cryptography
- *[Kasiski examination](https://github.com/mikeTerentev/cryptography)
- *[DES](https://github.com/mikeTerentev/cryptography)
+ * [Kasiski examination](https://github.com/mikeTerentev/cryptography)
+ * [DES](https://github.com/mikeTerentev/cryptography)
  
 ### Operating Systems
  * [Kid-shell](https://github.com/mikeTerentev/os-kidshell/)
