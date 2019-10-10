@@ -1,4 +1,4 @@
-# University projects
+
 Computer Technology Department, ITMO University,Saint-Petersburg, 2017-present
 ### Cryptography
  * [Kasiski examination](https://github.com/mikeTerentev/cryptography)
